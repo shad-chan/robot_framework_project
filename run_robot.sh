@@ -1,0 +1,1 @@
+robot -A enviroment_rf.txt tests

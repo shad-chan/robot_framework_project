@@ -3,8 +3,22 @@
 This project is a test automation framework implemented in Python using the Robot Framework. It allows users to automate end-to-end testing of various applications.
 
 # Installation
+
+###Install Python
+
 Install Python version 3.x or higher
-Install Robot Framework using the following command:
+
+###Install Pip
+
+To install pip, please follow the instructions for your operating system as described in the official pip documentation:
+
+For Windows: https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py
+
+For macOS or Linux: https://pip.pypa.io/en/stable/installing/
+
+###Install Robot Framework
+
+using the following command:
 
 pip install robotframework
 

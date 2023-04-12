@@ -1,0 +1,14 @@
+For reports:
+--outputdir ./projects_results
+--logtitle Project_Log
+--reporttitle Project_Report
+
+# Directory with keywors for Robot
+--pythonpath ./keywords
+# Directory with variables for Robot
+--pythonpath ./variables
+# Directory with tests for Robot
+--pythonpath ./tests
+# Directory with scripts for Robot
+--pythonpath ./libraries
+
