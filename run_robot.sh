@@ -1,1 +1,1 @@
-robot -A enviroment_rf.txt tests
+robot --pythonpath robot_framework_project --outputdir results tests/

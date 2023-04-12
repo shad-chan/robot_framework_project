@@ -12,7 +12,7 @@ Install Python version 3.x or higher
 
 To install pip, please follow the instructions for your operating system as described in the official pip documentation:
 
-For Windows: https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py
+For Windows: https://pip.pypa.io/en/stable/installation/
 
 For macOS or Linux: https://pip.pypa.io/en/stable/installing/
 
